@@ -1,5 +1,5 @@
 # Apenas um estudante normal
-Olá ser humano , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
+Olá  , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
 
 ==================================================================================
 
