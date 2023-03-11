@@ -4,7 +4,7 @@ Olá  , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
 ==================================================================================
 
 <div align="center">
-   <img height="380em" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
+   <img height="380em" src="https://media.tenor.com/QqsEqGFncUoAAAAd/cidade.gif"/>
 </div>
 <div align="center">
    <a href="https://www.linkedin.com/in/lucas-dias-843433227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -41,11 +41,3 @@ Olá  , Bem-Vindo ao meu Perfil . Apenas passando aqui para te observar.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-
-## 📊 &nbsp;Stats
-
-<div align="center">
-  <a href="https://github.com/felipeAguiarCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev0Lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev0Lucas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
