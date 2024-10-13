@@ -26,7 +26,7 @@ Tenho um grande interesse nas áreas de TI e cibersegurança, onde sempre procur
 ---
 
 ### Contatos
-- **Email** 📧: [dkchefe@proton.me](mailto:dkchefe@proton.me)
+- **Email** 📧: [0100101011001@proton.me](mailto:0100101011001@proton.me)
 - **Discord** 🗨️: [jzzforlyfe](https://discordapp.com/users/jzzforlyfe)
 
 ---
