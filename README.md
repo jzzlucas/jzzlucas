@@ -21,7 +21,6 @@ Tenho um grande interesse nas áreas de TI e cibersegurança, onde sempre procur
 - **Desenvolvimento de Software**
 - **Machine Learning**
 - **Cibersegurança**
-- **Desenvolvedor de Malware**
 
 ---
 
