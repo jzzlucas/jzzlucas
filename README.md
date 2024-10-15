@@ -31,9 +31,10 @@ Tenho um grande interesse nas áreas de TI e cibersegurança, onde sempre procur
 ---
 
 ### Curiosidades
-**Sempre carregando:** Um caderno de notas e uma mente aberta.
 
-**Último desafio:** Dominar uma nova tecnologia em tempo recorde.
+**Interesse Principal:** Tentar criar um malware que afeta tudo que tem codigo binário.
+
+**Último desafio:** Estudar 3 línguas diferentes e aprimorar a língua nativa. 
 
 ---
 
