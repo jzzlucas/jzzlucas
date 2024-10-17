@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/By_Dore%2C_Gustave%3B_La_Sainte_Trinite.jpg" width="250">
 
-**Oi** 
+ 
 
 ---
 
