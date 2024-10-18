@@ -13,7 +13,7 @@ Estudo três idiomas: inglês, francês e espanhol.
 <img src="france-flag-logo-dbc61b59a7-seeklogo-com.png" alt="França" width="50">
 <img src="bandeira-espanha-logo-76731839FE-seeklogo.com.png" alt="Espanha" width="55">
 
-Tenho um grande interesse nas áreas de TI e cibersegurança, onde sempre procuro aprender e me desenvolver.
+
 
 ---
 
