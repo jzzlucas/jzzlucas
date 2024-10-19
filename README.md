@@ -28,6 +28,17 @@ Estudo três idiomas: inglês, francês e espanhol.
 - **Email** 📧: [0100101011001@proton.me](mailto:0100101011001@proton.me)
 - **Discord** 🗨️: [jzzforlyfe](https://discordapp.com/users/jzzforlyfe)
 
+
+---
+
+## Meus Projetos
+
+1. [Web Security](https://github.com/users/jzzlucas/projects/2/views/1)
+   - Este projeto explica a web, networking etc.
+
+2. [Nome do Projeto 2](link_do_projeto)
+   - Descrição breve sobre o projeto e suas funcionalidades.
+
 ---
 
 ### Curiosidades
@@ -35,10 +46,3 @@ Estudo três idiomas: inglês, francês e espanhol.
 **Interesse Principal:** Tentar criar um malware que afeta tudo que tem codigo binário.
 
 **Último desafio:** Estudar 3 línguas diferentes e aprimorar a língua nativa. 
-
----
-
-### Vamos Colaborar?
-Estou sempre aberto a novas ideias e colaborações. Vamos criar algo incrível juntos!
-
-![Anonymous GIF](https://media.giphy.com/media/3oEjHERaTIdeuFQrXq/giphy.gif?cid=790b7611t0txh4n9yn6pz5ca5zi5dmqxa3wtvt9dtw8s8cov&ep=v1_gifs_search&rid=giphy.gif&ct=g)
