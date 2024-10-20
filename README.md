@@ -33,11 +33,9 @@ Estudo três idiomas: inglês, francês e espanhol.
 
 ## Meus Projetos
 
-1. [Web Security](https://github.com/users/jzzlucas/projects/2/views/1)
-   - Este projeto explica a web, networking etc.
+[Web Security](https://github.com/users/jzzlucas/projects/2/views/1)
 
-2. [Nome do Projeto 2](link_do_projeto)
-   - Descrição breve sobre o projeto e suas funcionalidades.
+[Nome do Projeto 2](link_do_projeto)
 
 ---
 
