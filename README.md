@@ -29,18 +29,3 @@ Estudo três idiomas: inglês, francês e espanhol.
 - **Discord** 🗨️: [jzzforlyfe](https://discordapp.com/users/jzzforlyfe)
 
 
----
-
-## Meus Projetos
-
-[Web Security](https://github.com/users/jzzlucas/projects/2/views/1)
-
-[Nome do Projeto 2](link_do_projeto)
-
----
-
-### Curiosidades
-
-**Interesse Principal:** Tentar criar um malware que afeta tudo que tem codigo binário.
-
-**Último desafio:** Estudar 3 línguas diferentes e aprimorar a língua nativa. 
